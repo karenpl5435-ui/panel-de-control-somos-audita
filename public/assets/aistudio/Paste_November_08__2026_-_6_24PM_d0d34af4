@@ -1,0 +1,1544 @@
+Actúa como un equipo profesional de desarrolladores de software, ingenieros de sistemas, diseñadores UX/UI, especialistas en auditoría, gestión empresarial, control interno y administración de proyectos sociales.
+
+Necesito que diseñes y desarrolles una plataforma web empresarial, profesional, moderna, completamente funcional, editable y administrable llamada SOMOS AUDITA, perteneciente a la empresa CORPORACIÓN SOCIAL SOMOS UNO.
+
+La plataforma estará destinada a realizar el proceso completo de auditoría al cargo de:
+
+GESTOR(A) DE PROYECTOS PARA SECTORES VULNERABLES.
+
+El propósito es que la organización pueda programar, planificar, ejecutar, documentar, verificar y finalizar una auditoría desde un único sistema.
+
+No quiero una página informativa, una presentación, una imagen ni una maqueta estática. Necesito un software real que permita ingresar información, modificarla, guardarla, consultar registros, cargar evidencias, generar documentos y administrar todos sus módulos.
+
+REQUISITO PRINCIPAL: La plataforma debe ser editable. Debo tener acceso de administrador para modificar su contenido, formularios, preguntas, funciones, diseño, documentos, usuarios y configuraciones sin tener que construirla nuevamente.
+
+1. IDENTIDAD CORPORATIVA
+
+Nombre: SOMOS AUDITA.
+
+Empresa: Corporación Social Somos Uno.
+
+Eslogan: "Auditoría, transparencia y mejoramiento para la transformación social".
+
+Objetivo: evaluar el cumplimiento de las funciones, responsabilidades y actividades del Gestor(a) de Proyectos que trabaja con comunidades y sectores vulnerables.
+
+Diseño visual:
+
+Azul oscuro como color principal.
+
+Blanco como color de fondo.
+
+Verde como color complementario.
+
+Gris para elementos secundarios.
+
+Apariencia empresarial, moderna y profesional.
+
+Logotipo institucional de SOMOS AUDITA.
+
+Iconos modernos.
+
+Tipografía clara y legible.
+
+Interfaz adaptable a computadores, tabletas y celulares.
+
+La plataforma debe transmitir confianza, transparencia, responsabilidad, organización y compromiso social.
+
+2. INICIO DE SESIÓN Y ADMINISTRACIÓN DE USUARIOS
+
+Crear una pantalla de inicio de sesión con:
+
+Logotipo de SOMOS AUDITA.
+
+Nombre de usuario.
+
+Contraseña.
+
+Botón de iniciar sesión.
+
+Recuperación de contraseña.
+
+Validación de credenciales.
+
+Cierre de sesión.
+
+Protección de cuentas.
+
+Crear los siguientes perfiles:
+
+ADMINISTRADOR
+
+Control total de la plataforma.
+
+Crear y administrar usuarios.
+
+Editar todos los módulos.
+
+Modificar formularios.
+
+Administrar permisos.
+
+Cambiar el diseño.
+
+Actualizar documentos.
+
+Consultar todas las auditorías.
+
+Administrar la base de datos y configuraciones autorizadas.
+
+COORDINADOR DE AUDITORÍA
+
+Programar auditorías.
+
+Asignar auditores.
+
+Revisar planes.
+
+Supervisar los procesos.
+
+Aprobar documentos.
+
+AUDITOR LÍDER
+
+Realizar auditorías.
+
+Diligenciar formularios.
+
+Registrar hallazgos.
+
+Identificar no conformidades.
+
+Elaborar informes.
+
+AUDITOR DE APOYO
+
+Apoyar las revisiones.
+
+Diligenciar listas de chequeo.
+
+Adjuntar evidencias.
+
+Registrar observaciones.
+
+GESTOR DE PROYECTOS AUDITADO
+
+Consultar solicitudes.
+
+Entregar documentos.
+
+Adjuntar evidencias.
+
+Presentar aclaraciones.
+
+Consultar resultados autorizados.
+
+DIRECCIÓN ADMINISTRATIVA
+
+Consultar resultados.
+
+Revisar informes.
+
+Consultar estadísticas.
+
+Realizar seguimiento a las auditorías.
+
+Los permisos deben ser configurables desde el administrador.
+
+3. PANEL PRINCIPAL O DASHBOARD
+
+Crear un panel principal con indicadores en tiempo real.
+
+Mostrar:
+
+Total de auditorías programadas.
+
+Auditorías en proceso.
+
+Auditorías finalizadas.
+
+Auditorías pendientes.
+
+Gestores auditados.
+
+Conformidades.
+
+Hallazgos.
+
+No conformidades.
+
+Oportunidades de mejora.
+
+Informes generados.
+
+Evaluaciones de auditores.
+
+Incluir:
+
+Gráficos estadísticos.
+
+Gráficos de barras.
+
+Gráficos circulares.
+
+Indicadores de cumplimiento.
+
+Calendario de auditorías.
+
+Actividades pendientes.
+
+Notificaciones.
+
+Buscador de auditorías.
+
+Agregar una barra de progreso para visualizar el estado de los siete momentos de cada auditoría.
+
+Los indicadores deben calcularse a partir de los registros reales almacenados en la plataforma.
+
+4. PROCESO COMPLETO DE AUDITORÍA: SIETE MOMENTOS
+
+ATENCIÓN: Los siguientes siete momentos son obligatorios. Deben conservar exactamente sus nombres y orden. No agregar otras etapas en su lugar, no eliminarlos ni modificarlos.
+
+MOMENTO 1. PROGRAMACIÓN DE LA AUDITORÍA
+
+Crear un formulario digital para programar las auditorías.
+
+Campos:
+
+Código automático de auditoría.
+
+Nombre del proyecto.
+
+Nombre del gestor auditado.
+
+Cargo.
+
+Área o dependencia.
+
+Ubicación del proyecto.
+
+Fecha de programación.
+
+Fecha de inicio.
+
+Fecha de finalización.
+
+Motivo de auditoría.
+
+Auditor líder.
+
+Auditores de apoyo.
+
+Prioridad.
+
+Estado de programación.
+
+Botones:
+
+Nueva programación.
+
+Guardar.
+
+Editar.
+
+Eliminar con autorización.
+
+Asignar auditores.
+
+Aprobar programación.
+
+Consultar.
+
+Buscar.
+
+La información debe guardarse automáticamente en el sistema y aparecer en el calendario de auditorías.
+
+MOMENTO 2. PLAN DE AUDITORÍA
+
+Crear un formulario para elaborar el plan de auditoría.
+
+Incluir:
+
+Objetivo general.
+
+Objetivos específicos.
+
+Alcance.
+
+Criterios de auditoría.
+
+Normas legales aplicables.
+
+Normas técnicas.
+
+Metodología.
+
+Actividades.
+
+Responsables.
+
+Cronograma.
+
+Recursos necesarios.
+
+Documentos requeridos.
+
+Fecha de ejecución.
+
+Objetivo general sugerido:
+
+Evaluar el cumplimiento de las funciones y responsabilidades del Gestor(a) de Proyectos de la Corporación Social Somos Uno, verificando la adecuada planeación, ejecución, seguimiento y control de los proyectos dirigidos a sectores vulnerables.
+
+Permitir:
+
+Crear el plan.
+
+Guardar.
+
+Editar.
+
+Enviar a revisión.
+
+Aprobar.
+
+Descargar en PDF.
+
+MOMENTO 3. ACTA DE APERTURA DE LA AUDITORÍA
+
+Crear un formulario que genere automáticamente el acta de apertura.
+
+Incluir:
+
+Código de auditoría.
+
+Fecha y hora.
+
+Nombre del proyecto.
+
+Gestor auditado.
+
+Auditor líder.
+
+Participantes.
+
+Objetivo.
+
+Alcance.
+
+Criterios.
+
+Metodología.
+
+Cronograma.
+
+Documentación solicitada.
+
+Observaciones.
+
+Compromisos iniciales.
+
+Funciones:
+
+Crear acta.
+
+Guardar.
+
+Editar.
+
+Registrar asistentes.
+
+Registrar firmas o aceptación electrónica.
+
+Aprobar.
+
+Descargar en PDF.
+
+Los datos de los momentos anteriores deben trasladarse automáticamente.
+
+MOMENTO 4. LISTA DE CHEQUEO
+
+Crear una lista de chequeo digital completa para evaluar las funciones del Gestor(a) de Proyectos.
+
+Dividirla en cuatro componentes:
+
+A. NORMAS LEGALES
+
+Verificar el cumplimiento de las normas aplicables.
+
+Campos:
+
+Nombre de la norma.
+
+Número y año.
+
+Artículo o requisito.
+
+Descripción.
+
+Resultado.
+
+Evidencia.
+
+Observaciones.
+
+B. NORMAS TÉCNICAS
+
+Verificar:
+
+Manuales de procedimientos.
+
+Protocolos institucionales.
+
+Guías metodológicas.
+
+Estándares técnicos.
+
+Procedimientos internos.
+
+Lineamientos de gestión de proyectos.
+
+Políticas institucionales.
+
+Permitir registrar el criterio, el resultado y las evidencias.
+
+C. CARACTERIZACIÓN
+
+Crear una sección para evaluar la caracterización del proceso que administra el gestor.
+
+Incluir:
+
+Objetivo.
+
+Alcance.
+
+Proveedores.
+
+Entradas.
+
+Actividades.
+
+Responsables.
+
+Recursos.
+
+Productos.
+
+Clientes o beneficiarios.
+
+Indicadores.
+
+Controles.
+
+Riesgos.
+
+Permitir verificar que la caracterización esté documentada, actualizada y aplicada.
+
+D. INFORMES
+
+Evaluar los informes presentados por el gestor.
+
+Verificar:
+
+Entrega oportuna.
+
+Cumplimiento de actividades.
+
+Avance de proyectos.
+
+Cumplimiento de objetivos.
+
+Metas alcanzadas.
+
+Ejecución presupuestal.
+
+Cronogramas.
+
+Resultados.
+
+Evidencias.
+
+Impacto social.
+
+Seguimiento a beneficiarios.
+
+FUNCIONAMIENTO DE LA LISTA
+
+Cada pregunta tendrá las siguientes opciones:
+
+Cumple.
+
+No cumple.
+
+Cumple parcialmente.
+
+No aplica.
+
+Cada respuesta permitirá:
+
+Registrar observaciones.
+
+Describir lo encontrado.
+
+Adjuntar fotografías autorizadas.
+
+Adjuntar PDF.
+
+Adjuntar documentos Word.
+
+Adjuntar otros soportes.
+
+Registrar fecha de revisión.
+
+Identificar al auditor.
+
+Agregar botones para guardar, editar, adjuntar evidencias y finalizar.
+
+Permitir agregar nuevas preguntas y categorías desde el administrador.
+
+MOMENTO 5. ACTA DE CIERRE DE LA AUDITORÍA
+
+Crear un formulario para registrar los resultados de la auditoría.
+
+Dividirlo en tres apartados:
+
+A. CONFORMIDADES
+
+Registrar los aspectos que cumplen correctamente con los requisitos.
+
+Campos:
+
+Requisito evaluado.
+
+Evidencia encontrada.
+
+Descripción del cumplimiento.
+
+Observaciones.
+
+B. HALLAZGOS
+
+Registrar las situaciones identificadas durante la auditoría.
+
+Campos:
+
+Descripción del hallazgo.
+
+Evidencia objetiva.
+
+Criterio relacionado.
+
+Área involucrada.
+
+Observaciones.
+
+C. OPORTUNIDADES DE MEJORA
+
+Registrar recomendaciones para fortalecer el desempeño del gestor.
+
+Campos:
+
+Situación identificada.
+
+Oportunidad de mejora.
+
+Recomendación.
+
+Responsable.
+
+Resultado esperado.
+
+APARTADO ESPECIAL: NO CONFORMIDADES
+
+Crear un formulario individual para cada no conformidad.
+
+Debe responder las siguientes cinco preguntas:
+
+¿Cuál fue el hallazgo y qué fue lo que se encontró?
+
+¿Qué norma o requisito se incumplió?
+
+¿Cómo se está violando esa norma?
+
+¿Cuáles son las posibles consecuencias o riesgos asociados?
+
+¿Qué se debe hacer para solucionar la no conformidad?
+
+Agregar:
+
+Código de no conformidad.
+
+Fecha de identificación.
+
+Evidencia objetiva.
+
+Descripción del incumplimiento.
+
+Causa identificada o posible causa.
+
+Nivel de riesgo.
+
+Consecuencias.
+
+Responsable de solucionar.
+
+Acción correctiva.
+
+Fecha de compromiso.
+
+Estado.
+
+Observaciones.
+
+Permitir registrar varias no conformidades por auditoría.
+
+Incluir comentarios y aclaraciones del gestor auditado.
+
+Relacionar automáticamente los resultados con el informe final.
+
+Permitir generar y descargar el acta de cierre en PDF.
+
+MOMENTO 6. INFORME DE LA AUDITORÍA
+
+Crear un generador automático de informes que recopile la información de los momentos anteriores.
+
+El informe debe incluir:
+
+Portada institucional.
+
+Nombre de la empresa.
+
+Código de auditoría.
+
+Nombre del proyecto.
+
+Gestor auditado.
+
+Auditores participantes.
+
+Objetivo.
+
+Alcance.
+
+Normatividad.
+
+Metodología.
+
+Actividades realizadas.
+
+Resultados de la lista de chequeo.
+
+Normas legales evaluadas.
+
+Normas técnicas evaluadas.
+
+Caracterización.
+
+Revisión de informes.
+
+Conformidades.
+
+Hallazgos.
+
+No conformidades.
+
+Oportunidades de mejora.
+
+Riesgos.
+
+Conclusiones.
+
+Recomendaciones.
+
+Evidencias y anexos.
+
+Funciones:
+
+Generar automáticamente.
+
+Editar el borrador.
+
+Guardar cambios.
+
+Enviar a revisión.
+
+Aprobar.
+
+Descargar PDF.
+
+Imprimir.
+
+Consultar informes anteriores.
+
+El informe debe tener una presentación profesional con la identidad visual de SOMOS AUDITA.
+
+MOMENTO 7. EVALUACIÓN DE LOS AUDITORES
+
+Crear un módulo para evaluar el desempeño de los auditores.
+
+Evaluar:
+
+Conocimiento de las normas.
+
+Preparación.
+
+Organización.
+
+Responsabilidad.
+
+Puntualidad.
+
+Comunicación.
+
+Imparcialidad.
+
+Objetividad.
+
+Manejo de evidencias.
+
+Identificación de hallazgos.
+
+Elaboración de informes.
+
+Confidencialidad.
+
+Trabajo en equipo.
+
+Utilizar escala de 1 a 5:
+
+Deficiente.
+
+Insuficiente.
+
+Aceptable.
+
+Bueno.
+
+Excelente.
+
+Incluir:
+
+Calificación por criterio.
+
+Promedio general.
+
+Fortalezas.
+
+Aspectos por mejorar.
+
+Observaciones.
+
+Recomendaciones de capacitación.
+
+Permitir guardar y editar evaluaciones y generar un informe individual.
+
+5. MÓDULO DE MANUAL DE FUNCIONES
+
+Crear un módulo independiente llamado MANUAL DE FUNCIONES.
+
+Este módulo debe documentar el cargo de Gestor(a) de Proyectos de la Corporación Social Somos Uno.
+
+IDENTIFICACIÓN DEL CARGO
+
+Nombre del cargo.
+
+Área o dependencia.
+
+Jefe inmediato.
+
+Nivel del cargo.
+
+Ubicación.
+
+Objetivo principal.
+
+FUNCIONES GENERALES
+
+Describir las responsabilidades principales relacionadas con la administración de proyectos sociales.
+
+FUNCIONES ESPECÍFICAS
+
+Incluir inicialmente:
+
+Formular y planificar proyectos sociales.
+
+Identificar las necesidades de las comunidades vulnerables.
+
+Diseñar objetivos, actividades y metas.
+
+Elaborar cronogramas.
+
+Coordinar recursos humanos, técnicos y financieros asignados.
+
+Realizar seguimiento a la ejecución de proyectos.
+
+Coordinar actividades con comunidades y beneficiarios.
+
+Elaborar informes de gestión.
+
+Verificar el cumplimiento de objetivos.
+
+Identificar riesgos y dificultades.
+
+Proponer acciones de mejora.
+
+Mantener actualizada la documentación.
+
+Presentar resultados a la dirección.
+
+Garantizar el manejo responsable de la información de los beneficiarios.
+
+PERFIL DEL CARGO
+
+Formación académica.
+
+Experiencia.
+
+Conocimientos técnicos.
+
+Competencias laborales.
+
+Habilidades comunicativas.
+
+Liderazgo.
+
+Trabajo en equipo.
+
+Planeación.
+
+Organización.
+
+Responsabilidad.
+
+RESPONSABILIDADES
+
+Administrativas.
+
+Operativas.
+
+Financieras, según las funciones asignadas.
+
+Documentales.
+
+Comunitarias.
+
+Seguimiento y evaluación.
+
+INTEGRACIÓN CON LA AUDITORÍA
+
+Conectar el manual de funciones con la lista de chequeo del momento 4.
+
+El auditor debe poder seleccionar cada función y verificar:
+
+Cumplimiento.
+
+Evidencia.
+
+Observaciones.
+
+Incumplimientos.
+
+Riesgos.
+
+Los resultados deben trasladarse al acta de cierre y al informe.
+
+Permitir:
+
+Crear funciones.
+
+Editar funciones.
+
+Eliminar funciones con autorización.
+
+Cargar manuales en Word y PDF.
+
+Descargar documentos.
+
+Actualizar versiones.
+
+Consultar el historial.
+
+Las funciones iniciales son propuestas y deben poder ser revisadas y aprobadas por la dirección antes de considerarse oficiales.
+
+6. MÓDULO DE NORMATIVIDAD LEGAL
+
+Crear una biblioteca de normatividad colombiana aplicable.
+
+Incluir como referencias iniciales:
+
+Constitución Política de Colombia.
+
+Ley 1581 de 2012: protección de datos personales.
+
+Ley 1712 de 2014: transparencia y acceso a la información pública, cuando corresponda.
+
+Ley 87 de 1993: control interno en entidades estatales, cuando corresponda.
+
+Ley 1474 de 2011: disposiciones anticorrupción, según su ámbito de aplicación.
+
+Ley 80 de 1993: contratación estatal, cuando corresponda.
+
+Decreto 092 de 2017: contratación con entidades privadas sin ánimo de lucro, cuando corresponda.
+
+ISO 19011: directrices para auditorías de sistemas de gestión.
+
+Manual de funciones institucional.
+
+Procedimientos internos de la organización.
+
+Cada registro debe incluir:
+
+Nombre de la norma.
+
+Número y año.
+
+Descripción.
+
+Artículos relacionados.
+
+Aplicabilidad.
+
+Enlace de consulta.
+
+Estado de vigencia por verificar.
+
+Permitir agregar, editar y eliminar normas.
+
+Diferenciar las obligaciones legales de las referencias técnicas. No asumir que todas las normas aplican automáticamente a la Corporación Social Somos Uno.
+
+7. MÓDULO DE INFORMES Y ESTADÍSTICAS
+
+Crear un centro de informes que permita consultar:
+
+Auditorías por periodo.
+
+Auditorías por proyecto.
+
+Auditorías por gestor.
+
+Porcentaje de cumplimiento.
+
+Conformidades.
+
+Hallazgos.
+
+No conformidades.
+
+Riesgos.
+
+Oportunidades de mejora.
+
+Evaluaciones de auditores.
+
+Acciones correctivas y su estado.
+
+Incluir gráficos, filtros y tablas.
+
+Permitir exportar a PDF y Excel.
+
+8. CICLO PHVA
+
+Crear una sección visual del ciclo PHVA.
+
+Respetar siempre los siete momentos.
+
+PLANEAR
+
+Momento 1: Programación de la auditoría.
+
+Momento 2: Plan de auditoría.
+
+HACER
+
+Momento 3: Acta de apertura.
+
+Momento 4: Lista de chequeo.
+
+VERIFICAR
+
+Momento 5: Acta de cierre.
+
+Momento 6: Informe de la auditoría.
+
+ACTUAR
+
+Momento 7: Evaluación de los auditores.
+
+Seguimiento a oportunidades de mejora.
+
+Seguimiento a acciones correctivas.
+
+Crear un diagrama circular que explique cómo se relacionan las etapas con el mejoramiento continuo.
+
+El ciclo PHVA debe complementar los siete momentos, nunca reemplazarlos.
+
+9. MÓDULO DE MANUAL DE USUARIO
+
+Crear un manual de usuario dentro de la plataforma.
+
+Debe explicar paso a paso:
+
+Cómo ingresar.
+
+Cómo iniciar sesión.
+
+Cómo crear una auditoría.
+
+Cómo realizar la programación.
+
+Cómo diligenciar el plan.
+
+Cómo elaborar el acta de apertura.
+
+Cómo utilizar la lista de chequeo.
+
+Cómo adjuntar evidencias.
+
+Cómo registrar no conformidades.
+
+Cómo generar el acta de cierre.
+
+Cómo elaborar el informe.
+
+Cómo evaluar auditores.
+
+Cómo consultar el manual de funciones.
+
+Cómo administrar usuarios.
+
+Cómo editar formularios.
+
+Cómo generar documentos.
+
+Cómo instalar la aplicación.
+
+Cómo desinstalarla.
+
+Permitir visualizarlo en pantalla y descargarlo en PDF.
+
+10. INSTALACIÓN DE SOMOS AUDITA
+
+Crear un botón visible llamado INSTALAR SOMOS AUDITA.
+
+Desarrollar la plataforma como aplicación web progresiva (PWA), cuando sea compatible.
+
+Debe permitir:
+
+Instalar la aplicación.
+
+Crear acceso directo.
+
+Mostrar icono institucional.
+
+Abrir en ventana independiente.
+
+Utilizarla desde dispositivos compatibles.
+
+Mostrar confirmación de instalación.
+
+Si el navegador no permite instalarla, mostrar instrucciones claras.
+
+La instalación debe estar documentada y funcionar realmente, no ser un botón decorativo.
+
+11. DESINSTALACIÓN DE SOMOS AUDITA
+
+Crear un botón llamado DESINSTALAR SOMOS AUDITA.
+
+Debe permitir:
+
+Consultar las instrucciones de desinstalación.
+
+Explicar cómo retirar la aplicación del dispositivo.
+
+Mostrar confirmación.
+
+Informar sobre la conservación de los datos.
+
+Proteger los registros de auditoría.
+
+La desinstalación de la aplicación no debe borrar automáticamente la información del servidor.
+
+Solo los administradores autorizados podrán gestionar la eliminación de datos conforme a las políticas de conservación documental y protección de datos.
+
+No simular una desinstalación si el navegador no permite realizarla directamente.
+
+12. MÓDULO DE ADMINISTRACIÓN Y EDICIÓN COMPLETA
+
+ESTE ES UNO DE LOS REQUISITOS MÁS IMPORTANTES.
+
+La plataforma debe ser completamente editable y personalizable desde un panel de administración.
+
+No quiero depender de un programador para modificar los contenidos cotidianos de la plataforma.
+
+Crear un módulo llamado:
+
+ADMINISTRADOR Y EDITOR DE SOMOS AUDITA.
+
+A. EDITAR CONTENIDOS
+
+Permitir modificar:
+
+Títulos.
+
+Subtítulos.
+
+Textos.
+
+Descripciones.
+
+Objetivos.
+
+Funciones.
+
+Instrucciones.
+
+Preguntas.
+
+Criterios.
+
+Normas.
+
+Observaciones.
+
+Manuales.
+
+Plantillas.
+
+Mensajes de bienvenida.
+
+B. EDITAR LOS SIETE MOMENTOS
+
+Permitir administrar cada momento:
+
+Agregar preguntas.
+
+Modificar preguntas.
+
+Eliminar preguntas.
+
+Agregar categorías.
+
+Cambiar campos.
+
+Crear nuevos campos.
+
+Modificar instrucciones.
+
+Cambiar opciones de respuesta.
+
+Organizar el orden de los formularios.
+
+Los cambios de plantillas deben aplicarse a las nuevas auditorías sin modificar automáticamente los registros históricos ni las auditorías cerradas.
+
+C. EDITAR EL DISEÑO
+
+Permitir:
+
+Cambiar colores.
+
+Cambiar logotipo.
+
+Modificar el nombre.
+
+Cambiar el eslogan.
+
+Editar textos de bienvenida.
+
+Modificar imágenes.
+
+Personalizar el menú.
+
+Organizar tarjetas.
+
+Mostrar u ocultar módulos según los permisos.
+
+D. EDITAR USUARIOS Y PERMISOS
+
+Permitir:
+
+Crear usuarios.
+
+Editar usuarios.
+
+Cambiar contraseñas.
+
+Asignar roles.
+
+Modificar permisos.
+
+Activar cuentas.
+
+Desactivar cuentas.
+
+Consultar historial.
+
+E. EDITAR DOCUMENTOS
+
+Permitir personalizar las plantillas de:
+
+Acta de apertura.
+
+Acta de cierre.
+
+Lista de chequeo.
+
+Informe de auditoría.
+
+Evaluación de auditores.
+
+Manual de funciones.
+
+Manual de usuario.
+
+Permitir cambiar encabezados, textos, logotipos, pies de página y formatos.
+
+F. EDITAR FORMULARIOS
+
+El administrador debe poder:
+
+Crear campos.
+
+Modificar campos.
+
+Eliminar campos.
+
+Cambiar nombres.
+
+Marcar campos obligatorios.
+
+Marcar campos opcionales.
+
+Agregar listas desplegables.
+
+Crear preguntas.
+
+Cambiar opciones de respuesta.
+
+Organizar formularios.
+
+Incluir diferentes tipos de campos: texto, fecha, número, selección, casillas, archivos y observaciones.
+
+G. GUARDAR Y CONTROLAR LOS CAMBIOS
+
+Incluir:
+
+Guardado automático cuando sea posible.
+
+Botón GUARDAR CAMBIOS.
+
+Botón CANCELAR.
+
+Confirmación antes de eliminar.
+
+Historial de modificaciones.
+
+Usuario responsable.
+
+Fecha y hora.
+
+Control de versiones.
+
+Restauración de versiones anteriores.
+
+H. VISTA PREVIA Y PUBLICACIÓN
+
+Antes de publicar modificaciones importantes, permitir:
+
+Editar.
+
+Guardar borrador.
+
+Vista previa.
+
+Publicar cambios.
+
+Cancelar.
+
+Los cambios deben reflejarse en la plataforma sin afectar los datos históricos.
+
+13. CÓDIGO FUENTE Y PROPIEDAD TÉCNICA DEL PROYECTO
+
+La plataforma debe construirse con una arquitectura organizada, documentada y modificable.
+
+Solicito que el proyecto incluya:
+
+Código fuente del frontend.
+
+Código fuente del backend.
+
+Base de datos.
+
+Estructura de datos.
+
+Componentes de diseño.
+
+Formularios.
+
+Estilos.
+
+Configuraciones.
+
+Archivos necesarios para instalación.
+
+Documentación técnica.
+
+Instrucciones para actualizar el sistema.
+
+No bloquear la aplicación dentro de un prototipo cerrado.
+
+Entregar acceso al proyecto fuente y explicar cómo exportarlo, modificarlo y respaldarlo.
+
+Si la herramienta utilizada no permite exportar código fuente, informar claramente esta limitación antes de presentar el proyecto como editable.
+
+14. BASE DE DATOS Y ALMACENAMIENTO
+
+Implementar almacenamiento persistente para:
+
+Usuarios.
+
+Auditorías.
+
+Programaciones.
+
+Planes.
+
+Actas.
+
+Listas de chequeo.
+
+Preguntas.
+
+Respuestas.
+
+Evidencias.
+
+No conformidades.
+
+Informes.
+
+Evaluaciones.
+
+Manuales.
+
+Normas.
+
+Historial de modificaciones.
+
+La información debe permanecer guardada después de cerrar la sesión, actualizar la página o ingresar desde otro dispositivo autorizado.
+
+No utilizar únicamente datos temporales o demostrativos.
+
+Implementar copias de seguridad y mecanismos de recuperación.
+
+15. SEGURIDAD Y PROTECCIÓN DE DATOS
+
+Incluir:
+
+Inicio de sesión seguro.
+
+Contraseñas protegidas.
+
+Control de acceso por roles.
+
+Protección de documentos.
+
+Historial de cambios.
+
+Registro de fecha, hora y usuario.
+
+Copias de seguridad.
+
+Protección de datos personales.
+
+Gestión de permisos para consultar evidencias.
+
+Prestar especial atención a los datos de niños, niñas y personas de sectores vulnerables.
+
+No permitir que usuarios sin autorización consulten información confidencial de los beneficiarios.
+
+16. CONFIGURACIÓN GENERAL
+
+Crear un módulo para administrar:
+
+Usuarios.
+
+Roles.
+
+Permisos.
+
+Datos institucionales.
+
+Logotipo.
+
+Plantillas.
+
+Notificaciones.
+
+Documentos.
+
+Copias de seguridad.
+
+Historial.
+
+Conservación documental.
+
+Configuración de la aplicación.
+
+17. ESTRUCTURA DEL MENÚ PRINCIPAL
+
+Crear un menú lateral izquierdo organizado de la siguiente manera:
+
+INICIO
+
+Dashboard.
+
+PROCESO DE AUDITORÍA
+2. Programación de auditoría.
+3. Plan de auditoría.
+4. Acta de apertura.
+5. Lista de chequeo.
+6. Acta de cierre.
+7. Informe de auditoría.
+8. Evaluación de auditores.
+
+GESTIÓN DOCUMENTAL
+9. Manual de funciones.
+10. Normatividad legal.
+11. Manual de usuario.
+
+CONTROL Y SEGUIMIENTO
+12. Informes y estadísticas.
+13. Ciclo PHVA.
+
+ADMINISTRACIÓN
+14. Editor de plataforma.
+15. Gestión de usuarios.
+16. Configuración.
+17. Historial de cambios.
+
+APLICACIÓN
+18. Instalar SOMOS AUDITA.
+19. Desinstalar SOMOS AUDITA.
+
+Cada opción debe abrir su módulo correspondiente y funcionar correctamente.
+
+18. SIMULACIÓN DE UNA AUDITORÍA REAL
+
+Incluir información ficticia para realizar una demostración completa.
+
+Crear un proyecto social de ejemplo dirigido a una comunidad vulnerable.
+
+Permitir desarrollar los siete momentos:
+
+Programar la auditoría.
+
+Elaborar el plan.
+
+Crear el acta de apertura.
+
+Diligenciar la lista de chequeo.
+
+Registrar conformidades, hallazgos, oportunidades de mejora y no conformidades en el acta de cierre.
+
+Generar el informe.
+
+Evaluar los auditores.
+
+Identificar todos los datos como DEMOSTRACIÓN.
+
+La simulación debe permitir modificar la información y guardar los resultados.
+
+19. FUNCIONAMIENTO DE TODOS LOS BOTONES
+
+Todos los módulos deben tener los botones necesarios:
+
+Nuevo.
+
+Guardar.
+
+Guardar cambios.
+
+Editar.
+
+Eliminar.
+
+Cancelar.
+
+Buscar.
+
+Filtrar.
+
+Adjuntar archivos.
+
+Descargar.
+
+Imprimir.
+
+Enviar.
+
+Aprobar.
+
+Rechazar.
+
+Vista previa.
+
+Volver.
+
+Cerrar sesión.
+
+No crear botones decorativos.
+
+Cada botón debe realizar la acción indicada, mostrar mensajes de confirmación y validar la información.
+
+20. PRUEBAS Y ENTREGA FINAL
+
+Antes de entregar la plataforma, realizar pruebas para verificar:
+
+Que el inicio de sesión funcione.
+
+Que los roles tengan sus permisos.
+
+Que los siete momentos estén completos y en el orden correcto.
+
+Que los formularios permitan crear y modificar registros.
+
+Que la información se guarde permanentemente.
+
+Que los archivos se puedan adjuntar y consultar.
+
+Que los informes se generen correctamente.
+
+Que los PDF se puedan descargar.
+
+Que las tablas se puedan exportar a Excel.
+
+Que el editor permita modificar los módulos.
+
+Que los cambios publicados se reflejen correctamente.
+
+Que los registros históricos se conserven.
+
+Que la instalación funcione en dispositivos compatibles.
+
+Que las instrucciones de desinstalación sean correctas.
+
+Que el sistema proteja la información.
+
+Entregar también una guía de administración y una guía técnica para futuras actualizaciones.
+
+INSTRUCCIÓN FINAL OBLIGATORIA
+
+Construye una aplicación empresarial completa llamada SOMOS AUDITA para la Corporación Social Somos Uno, enfocada en auditar el cargo de Gestor(a) de Proyectos para sectores vulnerables.
+
+La plataforma debe cumplir tres condiciones fundamentales:
+
+PRIMERA: AUDITORÍA COMPLETA.
+Debe permitir desarrollar todo el proceso dentro del sistema, respetando exactamente los siete momentos establecidos.
+
+SEGUNDA: PLATAFORMA EDITABLE.
+Debe permitir que el administrador modifique contenidos, formularios, preguntas, funciones, documentos, colores, logotipo, usuarios y configuraciones. También debe contar con código fuente accesible y documentación técnica para futuras modificaciones.
+
+TERCERA: SISTEMA FUNCIONAL.
+Debe tener almacenamiento permanente, botones operativos, generación de informes, carga de evidencias, instalación, desinstalación y protección de información.
+
+No entregar únicamente un prototipo visual. Construir una aplicación funcional, dinámica, editable, profesional y preparada para utilizarse en una simulación de auditoría real.
+
+La prioridad es que la Corporación Social Somos Uno pueda administrar SOMOS AUDITA y modificarla de acuerdo con sus necesidades futuras sin tener que comenzar nuevamente desde cero.

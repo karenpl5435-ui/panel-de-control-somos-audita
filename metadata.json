@@ -1,0 +1,6 @@
+{
+  "name": "SOMOS AUDITA - Corporación Social Somos Uno",
+  "description": "Plataforma empresarial de auditoría integral y control interno para la evaluación del cargo de Gestor(a) de Proyectos en sectores vulnerables. Siete momentos metodológicos, gestión documental y administración editable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

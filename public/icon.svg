@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="gradBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1d37"/>
+      <stop offset="100%" stop-color="#14365d"/>
+    </linearGradient>
+    <linearGradient id="gradGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#15803d"/>
+    </linearGradient>
+  </defs>
+  <!-- Background with rounded corners for maskable safe area -->
+  <rect width="512" height="512" rx="108" fill="url(#gradBg)"/>
+  
+  <!-- Outer shield contour -->
+  <path d="M256 70 C340 70 410 110 410 200 C410 330 256 425 256 425 C256 425 102 330 102 200 C102 110 172 70 256 70 Z" 
+        fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="8"/>
+        
+  <!-- Inner shield filled with accent gradient -->
+  <path d="M256 95 C325 95 385 128 385 205 C385 315 256 395 256 395 C256 395 127 315 127 205 C127 128 187 95 256 95 Z" 
+        fill="#0f2b4c" stroke="url(#gradGreen)" stroke-width="7"/>
+
+  <!-- Audit checkmark and social unity symbol -->
+  <!-- Social unity arch (people holding hands / foundation) -->
+  <circle cx="256" cy="170" r="32" fill="url(#gradGreen)"/>
+  
+  <path d="M190 270 C190 225 322 225 322 270" fill="none" stroke="#22c55e" stroke-width="14" stroke-linecap="round"/>
+  
+  <!-- Prominent audit verification checkmark -->
+  <path d="M200 305 L240 345 L325 240" fill="none" stroke="#ffffff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Lettering baseline -->
+  <text x="256" y="465" font-family="system-ui, sans-serif" font-size="34" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="4">SOMOS AUDITA</text>
+</svg>
